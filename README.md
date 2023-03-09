@@ -6,12 +6,11 @@ For this project, I have worked with a Backend developer, UX designer, QA tester
 
 The technology used for building and modifying these components are HTML5, CSS3 SASS, Vanilla JavaScript, jQuery, Bootstrap, FontAwesome, Owl Carousel, JSON, ASP.NET Razor, GitHub, and Visual Studio.
 
-Link: https://www.grandandtoy.com/
+#### Link: 
+https://www.grandandtoy.com/
 
-Main Page Display: 
-
+#### Main Page Display: 
 ![grand-and-toy](https://user-images.githubusercontent.com/15988182/217398354-3d3e27f9-a349-4370-945a-e5b62f614d16.JPG)
 
-Figma Wireframe:
-
+#### Figma Wireframe:
 ![Screenshot 2023-02-01 at 9 39](https://user-images.githubusercontent.com/15988182/217399326-c705bc63-2969-42de-88fc-b99bd2744c52.jpg)
